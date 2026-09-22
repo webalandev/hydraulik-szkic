@@ -1,0 +1,58 @@
+{
+  "regions": [
+    {
+      "id": "meta-strip",
+      "kind": "chrome",
+      "grid": "C0:J0",
+      "note": "Top meta bar with ZŁOTA RĄCZKA, location and protocol number"
+    },
+    {
+      "id": "brand-stamp",
+      "kind": "control",
+      "grid": "A0:A0",
+      "note": "Orange square stamp badge"
+    },
+    {
+      "id": "headline",
+      "kind": "text",
+      "grid": "C1:H2",
+      "note": "TECHNICZNY PROTOKÓŁ KALIBRACJI I CERTYFIKAT NAPRAWY"
+    },
+    {
+      "id": "lead-name",
+      "kind": "text",
+      "grid": "A5:C9",
+      "note": "Monumental TOMASZ BOGACKI headline"
+    },
+    {
+      "id": "table-section-1",
+      "kind": "text",
+      "grid": "C2:F3",
+      "note": "SEKCJA 1: NAPRAW parameters table"
+    },
+    {
+      "id": "table-section-3",
+      "kind": "text",
+      "grid": "C4:F8",
+      "note": "SEKCJA 3: KALIBRACJA measurement matrix"
+    },
+    {
+      "id": "table-section-4",
+      "kind": "text",
+      "grid": "G2:J4",
+      "note": "SEKCJA 4: KALIBRACJA and diagnostic data"
+    },
+    {
+      "id": "diagnostic-schematic-plate",
+      "kind": "plate",
+      "grid": "G5:I8",
+      "note": "Technical line drawing schematic of valve and hinge mechanism"
+    },
+    {
+      "id": "hotline-bar",
+      "kind": "control",
+      "grid": "G9:J9",
+      "note": "Emergency hotline bar with +48 731 593 672"
+    }
+  ]
+}
